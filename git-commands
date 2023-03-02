@@ -1,0 +1,10 @@
+git version
+git status
+git touch
+git status
+git add file1
+git status
+git commit -m "labal name" File1
+git log
+git push
+---------
